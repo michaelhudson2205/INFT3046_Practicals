@@ -214,3 +214,6 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+#data
+3-3_Anomaly-Detection/data/creditcard.csv
